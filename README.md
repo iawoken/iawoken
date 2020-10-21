@@ -31,4 +31,9 @@
 <img src="https://devicon.dev/devicon.git/icons/amazonwebservices/amazonwebservices-original.svg" alt="Amazon Web Service" width="40" height="40"/> 
 </p>
 <br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iawoken&layout=compact" alt="awoken" /></p>
+<h3>Github Stats</h3>
+<p align="left">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=iawoken&layout=compact" alt="awoken" />
+  <br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iawoken&layout=compact" alt="awoken" />
+</p>
