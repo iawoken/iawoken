@@ -35,5 +35,5 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=iawoken&layout=compact&theme=react" alt="awoken" />
   <br><br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iawoken&layout=compact&theme=react" alt="awoken" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iawoken&layout=compact&theme=dark" alt="awoken" />
 </p>
