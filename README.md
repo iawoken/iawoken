@@ -32,8 +32,8 @@
 </p>
 <br>
 <h3>Github Stats</h3>
-<p align="left">
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=iawoken&layout=compact" alt="awoken" />
-  <br>
+  <br><br><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iawoken&layout=compact" alt="awoken" />
 </p>
