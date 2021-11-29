@@ -6,7 +6,7 @@
 
 <p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=iawoken&theme=dark&show_icons=true&locale=en" alt="iawoken"  ></p>
 
-Hello, I am a 17 year old developer.\
+Hello, I am a 18 year old developer.\
 I usually develop bots with [Node.JS](https://nodejs.org/en/docs/) and [Python](https://docs.python.org/3/) technologies.\
 I'm trying to learn [TypeScript](https://typescriptlang.org/) right now, it's going well.\
 I usually do back-end programming, front-end is not very interesting to me.\
