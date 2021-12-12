@@ -18,7 +18,6 @@ If you want to support my projects, you can star the projects.
 <a href="https://discord.com/users/355742603691687937"><img align="left" src="https://img.shields.io/badge/Discord-awoken%231000-8EA1E1?style=for-the-badge&logo=discord" /> </a>
 </p>
 ![](https://komarev.com/ghpvc/?username=iawoken&color=blue)
-<p align="left">
 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="1" heigth="1">
 </p>
 <h3>Languages:</h3>
