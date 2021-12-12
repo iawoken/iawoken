@@ -6,13 +6,14 @@
 
 <p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=iawoken&theme=dark&show_icons=true&locale=en" alt="iawoken"  ></p>
 
+<p> ![](https://komarev.com/ghpvc/?username=iawoken&color=blue) </p>
+
 Hello, I am a 18 year old developer.\
 I usually develop bots with [Node.JS](https://nodejs.org/en/docs/) and [Python](https://docs.python.org/3/) technologies.\
 I'm trying to learn [TypeScript](https://typescriptlang.org/) right now, it's going well.\
 I usually do back-end programming, front-end is not very interesting to me.\
 I like to listen to music while dealing with software.\
 If you want to support my projects, you can star the projects.
-![](https://komarev.com/ghpvc/?username=iawoken&color=blue)
 
 <h3 align="left">Contact with me:</h3>
 
