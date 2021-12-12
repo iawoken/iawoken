@@ -5,7 +5,6 @@
 <p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=iawoken&theme=dark&show_icons=true&locale=en&layout=compact" alt="iawoken" /></p>
 
 <p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=iawoken&theme=dark&show_icons=true&locale=en" alt="iawoken"  ></p>
-![](https://komarev.com/ghpvc/?username=iawoken&color=blue)
 
 Hello, I am a 18 year old developer.\
 I usually develop bots with [Node.JS](https://nodejs.org/en/docs/) and [Python](https://docs.python.org/3/) technologies.\
@@ -18,6 +17,7 @@ If you want to support my projects, you can star the projects.
 
 <a href="https://discord.com/users/355742603691687937"><img align="left" src="https://img.shields.io/badge/Discord-awoken%231000-8EA1E1?style=for-the-badge&logo=discord" /> </a>
 </p>
+![](https://komarev.com/ghpvc/?username=iawoken&color=blue)
 <p align="left">
 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="1" heigth="1">
 </p>
