@@ -11,10 +11,10 @@ I usually develop bots with [Node.JS](https://nodejs.org/en/docs/) and [Python](
 I'm trying to learn [TypeScript](https://typescriptlang.org/) right now, it's going well.\
 I usually do back-end programming, front-end is not very interesting to me.\
 I like to listen to music while dealing with software.\
-If you want to support my projects, you can star the projects.
+If you want to support my projects, you can star the projects.<br>
+![](https://komarev.com/ghpvc/?username=iawoken&color=blue)
 
 <h3 align="left">Contact with me:</h3>
-![](https://komarev.com/ghpvc/?username=iawoken&color=blue)<br>
 <a href="https://discord.com/users/355742603691687937"><img align="left" src="https://img.shields.io/badge/Discord-awoken%231000-8EA1E1?style=for-the-badge&logo=discord" /> </a>
 </p>
 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="1" heigth="1">
