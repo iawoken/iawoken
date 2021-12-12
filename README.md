@@ -12,6 +12,7 @@ I'm trying to learn [TypeScript](https://typescriptlang.org/) right now, it's go
 I usually do back-end programming, front-end is not very interesting to me.\
 I like to listen to music while dealing with software.\
 If you want to support my projects, you can star the projects.
+![](https://komarev.com/ghpvc/?username=iawoken&color=blue)
 
 <h3 align="left">Contact with me:</h3>
 
